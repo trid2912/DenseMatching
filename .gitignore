@@ -6,4 +6,4 @@
 **/*.pth
 **qsublogs
 **qsub_logs
-admin/local.py
+admin/local.pypretrained_network/
